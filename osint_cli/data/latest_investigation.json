@@ -1,0 +1,26 @@
+{
+  "claim_input": "A satellite image proves event X happened yesterday",
+  "input_type": "text",
+  "claim_analysis": {
+    "entities": [
+      "yesterday"
+    ],
+    "emotional_language_score": 0.0,
+    "factual_components": [
+      "A satellite image proves event X happened yesterday"
+    ]
+  },
+  "timeline": [],
+  "earliest_source": null,
+  "domain_intel": null,
+  "media_forensics": null,
+  "network_analysis": {
+    "earliest_poster": null,
+    "node_count": 0,
+    "edge_count": 0,
+    "top_degree_nodes": []
+  },
+  "credibility_score": 58.0,
+  "confidence_level": "MEDIUM",
+  "score_explanation": "Low emotional language detected (+8)."
+}
